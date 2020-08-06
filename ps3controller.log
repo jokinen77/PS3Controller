@@ -1,0 +1,185 @@
+2019-12-27 19:23:27 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:23:27 INFO  PS3Controller - PS3 controller device: Bus 001 Device 007: ID 054c:0268
+2019-12-27 19:23:28 INFO  PS3Controller - PS3 controller claimed!
+2019-12-27 19:23:28 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:23:28 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:24:39 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:24:39 INFO  PS3Controller - PS3 controller device: Bus 001 Device 007: ID 054c:0268
+2019-12-27 19:24:39 INFO  PS3Controller - PS3 controller device's interface claimed!
+2019-12-27 19:24:39 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:24:39 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:26:26 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:26:26 INFO  PS3Controller - PS3 controller device: Bus 001 Device 007: ID 054c:0268
+2019-12-27 19:26:26 INFO  PS3Controller - PS3 controller device's interface claimed!
+2019-12-27 19:26:26 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:26:26 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:32:52 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:32:52 INFO  PS3Controller - PS3 controller device: Bus 001 Device 008: ID 054c:0268
+2019-12-27 19:32:52 INFO  PS3Controller - PS3 controller device's interface claimed!
+2019-12-27 19:32:52 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:32:52 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:39:05 INFO  PS3Controller - Found 0 PS3 controller!
+2019-12-27 19:39:05 ERROR Main - No PS3 controllers found!
+2019-12-27 19:39:06 INFO  PS3Controller - Found 0 PS3 controller!
+2019-12-27 19:39:06 ERROR Main - No PS3 controllers found!
+2019-12-27 19:39:22 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:39:22 INFO  PS3Controller - PS3 controller device: Bus 001 Device 009: ID 054c:0268
+2019-12-27 19:39:22 INFO  PS3Controller - PS3 controller device's interface claimed!
+2019-12-27 19:39:22 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:39:22 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:39:25 ERROR PS3Controller - Can't get pressed buttons from the PS3 controller! Meaby device is unplugged? Message: USB error 4: Transfer error on interrupt endpoint: No such device (it may have been disconnected)
+2019-12-27 19:43:10 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:43:10 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 19:43:10 INFO  PS3Controller - PS3 controller'sinterface claimed!
+2019-12-27 19:43:10 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:43:10 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:43:16 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:43:16 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 19:43:16 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 19:43:16 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:43:16 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:54:10 INFO  UsbUtils - 
+##### Usb devices #####
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+##### Usb devices end #####
+2019-12-27 19:54:10 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:54:10 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 19:54:10 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 19:54:10 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:54:10 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:55:40 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+
+2019-12-27 19:55:40 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:55:40 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 19:55:40 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 19:55:40 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:55:40 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 19:56:46 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 19:56:46 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:56:46 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 19:57:15 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 19:57:15 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 19:57:15 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 19:57:15 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 19:57:15 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 19:57:15 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 20:03:19 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 20:03:19 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 20:03:19 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 20:03:20 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 20:03:20 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 20:03:20 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 20:04:14 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 20:04:14 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 20:04:14 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 20:04:15 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 20:04:15 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 20:04:15 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 20:11:37 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 20:11:37 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 20:11:37 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 20:11:37 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 20:11:37 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 20:11:37 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 20:12:13 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 20:12:13 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 20:12:13 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 20:12:13 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 20:12:13 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 20:12:13 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 20:14:59 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 20:14:59 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 20:14:59 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 20:14:59 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 20:14:59 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 20:14:59 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 20:33:41 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 010: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 20:33:41 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 20:33:41 INFO  PS3Controller - PS3 controller device: Bus 001 Device 010: ID 054c:0268
+2019-12-27 20:33:41 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 20:33:41 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 20:33:41 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 20:34:52 ERROR PS3Controller - Can't get pressed buttons from the PS3 controller! Meaby device is unplugged? Message: USB error 4: Transfer error on interrupt endpoint: No such device (it may have been disconnected)
+2019-12-27 20:35:04 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 011: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 20:35:04 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 20:35:04 INFO  PS3Controller - PS3 controller device: Bus 001 Device 011: ID 054c:0268
+2019-12-27 20:35:04 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 20:35:04 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 20:35:04 INFO  PS3Controller - Starting to listen the PS3 controller...
+2019-12-27 21:17:53 INFO  UsbUtils - Usb devices:
+usb4java root hub 1.0.0
+	Bus 001 Device 001: ID 1d6b:0002
+		Bus 001 Device 002: ID 5986:06b0
+		Bus 001 Device 003: ID 0cf3:e500
+		Bus 001 Device 011: ID 054c:0268
+	Bus 002 Device 001: ID 1d6b:0003
+2019-12-27 21:17:53 INFO  PS3Controller - Found 1 PS3 controller!
+2019-12-27 21:17:53 INFO  PS3Controller - PS3 controller device: Bus 001 Device 011: ID 054c:0268
+2019-12-27 21:17:53 INFO  PS3Controller - PS3 controller's interface claimed!
+2019-12-27 21:17:53 INFO  PS3Controller - PS3 controller initialized!
+2019-12-27 21:17:53 INFO  PS3Controller - Starting to listen the PS3 controller...
